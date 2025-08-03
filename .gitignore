@@ -1,0 +1,91 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Crash Reports
+sysinfo.txt
+
+# ============== #
+# Unity Cache    #
+# ============== #
+*.stacktrace
+
+# =============== #
+# OS generated    #
+# =============== #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# =============== #
+# IDEs and tools  #
+# =============== #
+
+# Rider
+.idea/
+*.sln.iml
+
+# VSCode
+.vscode/
+
+# Visual Studio
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# JetBrains Rider
+*.sln.DotSettings.user
+
+# =============== #
+# Build artifacts #
+# =============== #
+*.exe
+*.apk
+*.aab
+*.unitypackage
+
+# =============== #
+# Optional        #
+# =============== #
+# Uncomment if using Addressables
+# Assets/AddressableAssetsData/*/*.bin*
+# Assets/AddressableAssetsData/*/*.link*
+# Assets/AddressableAssetsData/*/*.json
+# Assets/StreamingAssets/aa/
+
+# Uncomment if using PlasticSCM
+# .plastic/
+# *.plastic
+
+# Uncomment if using Collaborate
+# .collab/
+
+# =============== #
+# Asset Store     #
+# =============== #
+*.assetstoretools*
+
+# =============== #
+# Unity Cloud Build #
+# =============== #
+.projectid
